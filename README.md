@@ -12,7 +12,7 @@ This highlights industry best practices in data engineering and analytics.
 ### BUILDING THE DATA WAREHOUSE
 
 ### OBJECTIVE
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling data analytical reporting.
+Develop a modern data warehouse using SQL Server to consolidate sales data and enabling data analytical reporting.
 
 ### SPECIFICATIONS
 
