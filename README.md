@@ -36,3 +36,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 ## LICENSE
 This Project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+---
+## ABOUT ME:
+**Vizal Joseph**
+
+B.Sc Computer Science graduate, transitioning from AR Process Associate into Data Analysis and Data engineering.
+
+- GitHub: https://github.com/Vizal1072
+- LinkedIn: https://linkedin.com/in/vizal-joseph
+- Email: vizaljoseph.prof@gmail.comcom
